@@ -7,4 +7,6 @@ So, therefore it is a base =vanila js game;
 Advance CSS styling is used;
 gradient feature is used the most
 
+you can find this game at https://sarvesh-pong.netlify.app
+
 ENJOY!
